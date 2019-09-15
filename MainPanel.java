@@ -1,7 +1,6 @@
 
 //File: MainPanel.java
 //Name: Kyle Ng
-//StudentID: 100296955
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
