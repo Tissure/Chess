@@ -1,7 +1,6 @@
 
 //File: Rook.java
 //Name: Kyle Ng
-//Student ID: 100296955
 
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
