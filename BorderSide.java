@@ -1,7 +1,6 @@
 
 //File: BorderSide.java
 //Name: Kyle Ng
-//StudentID: 100296955
 
 import java.awt.FlowLayout;
 import java.awt.Graphics;
