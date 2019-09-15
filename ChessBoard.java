@@ -1,8 +1,6 @@
 
 //File: ChessBoard.java
 //Name: Kyle Ng
-//Student ID: 100296955
-
 
 
 public class ChessBoard extends Board {
