@@ -3,7 +3,6 @@ import javax.swing.JPanel;
 
 //File: board.java
 //Name: Kyle Ng
-//Student ID: 100296955
 
 public abstract class Board {
     protected Piece[][] board;
